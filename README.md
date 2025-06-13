@@ -99,14 +99,63 @@ graph TD
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamzaheershaik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzaheershaik&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-</div>
+### 🔥 **THE CODING BATTLEFIELD** 🔥
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **STATS LOADING...** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamzaheershaik&theme=tokyonight" alt="Zaheer's GitHub Streak" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=iamzaheershaik&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzaheershaik&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
+</td>
+</tr>
+</table>
+
+### 🌟 **STREAK MASTER** 🌟
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamzaheershaik&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideNums=FFFFFF&currStreakNum=F85D7F&dates=FFFFFF&sideLabels=F8D866&border_radius=15" />
+
+### 🏆 **ACHIEVEMENT UNLOCKED** 🏆
+<img src="https://github-profile-trophy.vercel.app/?username=iamzaheershaik&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+### ⚡ **POWER LEVEL: CODING INTENSITY** ⚡
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamzaheershaik&custom_title=Zaheer's%20Coding%20Adventure&bg_color=0D1117&color=F8D866&line=F85D7F&point=F8D866&area=true&hide_border=true&area_color=F85D7F" />
+
+### 🎯 **CODING METRICS DASHBOARD** 🎯
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamzaheershaik&theme=synthwave" />
+</p>
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamzaheershaik&theme=synthwave" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamzaheershaik&theme=synthwave" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamzaheershaik&theme=synthwave" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamzaheershaik&theme=synthwave&utc_offset=5.5" />
+</td>
+</tr>
+</table>
+
+### 🚀 **CONTRIBUTION HEATMAP** 🚀
+<img src="https://ghchart.rshah.org/F85D7F/iamzaheershaik" alt="Zaheer's Github chart" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 📈 **THE JOURNEY CONTINUES...** 📈
 
 </div>
 
