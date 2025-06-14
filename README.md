@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Zaheer's Digital Universe! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=This+is+Shaik+Mohammed+Zaheer;Full+Stack+Developer+MERN+Stack+Enthusiast;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=This+is+Shaik+Mohammed+Zaheer;+Full+Stack+Developer+MERN+Stack+Enthusiast;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
