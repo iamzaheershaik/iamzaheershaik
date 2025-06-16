@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # 🚀 Welcome to Zaheer's Digital Universe! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=This+is+Shaik+Mohammed+Zaheer;+Full+Stack+Developer+MERN+Stack+Enthusiast;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shaik+Mohammed+Zaheer;Full+Stack+Developer+in+Making;MERN+Stack+Enthusiast;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -15,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-javascript
+```javascript
 const zaheer = {
     name: "Shaik Mohammed Zaheer",
     role: "Full Stack Developer",
@@ -28,7 +27,7 @@ const zaheer = {
 };
 
 console.log("Welcome to my GitHub! 👋");
-
+```
 
 <br clear="right"/>
 
@@ -55,7 +54,7 @@ console.log("Welcome to my GitHub! 👋");
 
 <div align="center">
 
-mermaid
+```mermaid
 graph TD
     A[🎯 Started Learning] --> B[📝 HTML & CSS]
     B --> C[🎨 Bootstrap]
@@ -73,7 +72,7 @@ graph TD
     style E fill:#45b7d1
     style F fill:#96ceb4
     style G fill:#fcea2b
-
+```
 
 </div>
 
@@ -216,7 +215,7 @@ graph TD
 
 <div align="center">
 
-diff
+```diff
 + Master Advanced React Patterns & Hooks
 + Build 10+ Full Stack MERN Projects
 + Contribute to Open Source Projects
@@ -225,7 +224,7 @@ diff
 + Land My First Full Stack Developer Role
 + Build a Strong Professional Network
 + Create Projects that Solve Real-World Problems
-
+```
 
 </div>
 
@@ -247,6 +246,6 @@ diff
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-</div>   can Your More than Unique Version than this And Journey Section  make Occupies less Space readme
+</div>
 
 
