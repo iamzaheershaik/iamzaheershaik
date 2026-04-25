@@ -95,29 +95,6 @@ Goal:       Write code that scales, reads clean, and ships fast
 
 ---
 
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/iamzaheershaik/BankingSystem">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamzaheershaik&repo=BankingSystem&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_radius=12" />
-</a>
-<a href="https://github.com/iamzaheershaik/Crack_The_JS_INTERVIEW">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamzaheershaik&repo=Crack_The_JS_INTERVIEW&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
-> 💡 **Banking System** — Full-stack MERN app with user authentication, RESTful API, MongoDB integration & Express backend.
->
-> 📚 **Crack The JS Interview** — Comprehensive JavaScript interview preparation resource with real-world examples.
-
----
-
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 ## 🤝 Let's Connect
@@ -134,20 +111,6 @@ Goal:       Write code that scales, reads clean, and ships fast
 
 </div>
 
----
-
-<!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamzaheershaik/iamzaheershaik/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamzaheershaik/iamzaheershaik/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/iamzaheershaik/iamzaheershaik/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
@@ -161,3 +124,4 @@ Goal:       Write code that scales, reads clean, and ships fast
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff00&height=120&section=footer" width="100%"/>
 
 </div>
+
